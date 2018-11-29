@@ -76,8 +76,6 @@ class App extends Component {
         }
     }
 
-
-
     render() {
         if (this.props.pizza) {
             return (
